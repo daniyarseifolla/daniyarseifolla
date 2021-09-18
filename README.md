@@ -7,8 +7,6 @@
 
 - 👨‍💻 I’m looking for working in **product company**
 
-- 💬 Ask me about **Angular**
-
 - 📫 How to reach me **daniyar.seifolla@gmail.com**
 
 - ⚡ Fun fact **I dont like fried or boiled vegetables and fruits**
