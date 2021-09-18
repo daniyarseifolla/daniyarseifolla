@@ -7,7 +7,7 @@
 
 - 👨‍💻 I’m looking for working in **product company**
 
-- 💬 Ask me about **Anagular**
+- 💬 Ask me about **Angular**
 
 - 📫 How to reach me **daniyar.seifolla@gmail.com**
 
